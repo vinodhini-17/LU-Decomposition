@@ -45,9 +45,11 @@ print(solution)
 
 ## Output:
 i)
-![Alt text](<lu out 1.png>)
+![lu out 1](https://github.com/vinodhini-17/LU-Decomposition/assets/145742741/a89fa08d-16a2-4ad2-9ce0-dd03711a6653)
+
 ii)
-![Alt text](<lu 2 out.png>)
+![lu 2 out](https://github.com/vinodhini-17/LU-Decomposition/assets/145742741/d3bdf19f-05de-4d3d-a611-d2c665fa9f5c)
+
 ## Result:
 Thus the program to find the LU Decomposition of a matrix is written and verified using python programming.
 
