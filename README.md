@@ -8,6 +8,17 @@ To write a program to find the LU Decomposition of a matrix.
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
 
 ## Algorithm
+## step 1
+Initialize: Create matrices L (identity matrix) and U (copy of A).
+## step 2
+Factorize: Use Gaussian elimination to update L and U for each row.
+## step 3
+Store Multipliers: Record multipliers in L during factorization.
+## step 4
+Verify Result: Check if LU equals the original matrix A within numerical precision.
+## step 4
+end the program
+
 
 ## Program:
 (i) To find the L and U matrix
